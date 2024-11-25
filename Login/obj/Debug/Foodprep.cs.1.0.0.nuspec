@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Foodprep.cs</id>
+    <version>1.0.0</version>
+    <authors>Foodprep.cs</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+        <dependency id="Npgsql" version="8.0.5" exclude="Build,Analyzers" />
+        <dependency id="System.Net.Http" version="4.3.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Lenovo\source\repos\Login\Login\bin\Debug\net8.0-windows\Foodprep.cs.runtimeconfig.json" target="lib\net8.0-windows7.0\Foodprep.cs.runtimeconfig.json" />
+    <file src="C:\Users\Lenovo\source\repos\Login\Login\bin\Debug\net8.0-windows\Foodprep.cs.dll" target="lib\net8.0-windows7.0\Foodprep.cs.dll" />
+  </files>
+</package>

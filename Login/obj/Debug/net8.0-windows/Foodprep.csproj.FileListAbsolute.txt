@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\Login\Login\obj\Debug\net8.0-windows\Foodprep.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Login\Login\obj\Debug\net8.0-windows\Login.DaftarForm.resources
+C:\Users\Lenovo\source\repos\Login\Login\obj\Debug\net8.0-windows\Login.LoginForm.resources
+C:\Users\Lenovo\source\repos\Login\Login\obj\Debug\net8.0-windows\Foodprep.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Login\Login\obj\Debug\net8.0-windows\Foodprep.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Login\Login\obj\Debug\net8.0-windows\Foodprep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Login\Login\obj\Debug\net8.0-windows\Foodprep.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Login\Login\obj\Debug\net8.0-windows\Foodprep.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Login\Login\obj\Debug\net8.0-windows\Foodprep.csproj.CoreCompileInputs.cache
